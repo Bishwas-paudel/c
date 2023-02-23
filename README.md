@@ -1,1 +1,1 @@
-# c
+resturent management system in c
